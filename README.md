@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de projeto.
+# Estudos realizados no Bootcamp Spread Fullstack Developer
+Repositório criado para o bootcamp.
